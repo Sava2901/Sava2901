@@ -104,7 +104,7 @@ Co-founded and currently building an AI-first communication experience:
 
 ## 🏆 Hackathon Contributions
 
-### 🥇 Seally — ITEC Hackathon Winner (Mobile)
+### 🥇 Seally — ITFest Hackathon Winner (Mobile)
 > **Kotlin · Python · TypeScript · LiveKit · Perplexity Sonar** · [View repo](https://github.com/Tudor230/Seally)
 
 A fitness & posture tracking platform built across three components:
@@ -114,7 +114,16 @@ A fitness & posture tracking platform built across three components:
 
 ---
 
-### 🥇 iTEC 2026 — ITEC Hackathon Winner (Web Dev)
+### 🥇 CultureDrop — ITEC Hackathon Project
+> **TypeScript · React · Vite · Node.js** · [View repo](https://github.com/Oprea-Sava-Cosmin/CultureDrop)
+
+A full-stack web platform for cultural content discovery and sharing:
+- React + Vite frontend with TanStack Router
+- Node.js backend with REST API
+
+---
+
+### 🌐 Itecify — ITEC Hackathon
 > **TypeScript · React · Vite · Monaco · Yjs · Socket.IO · Prisma · PostgreSQL · Docker** · [View repo](https://github.com/Tudor230/itec2026)
 
 A full-stack real-time collaborative coding platform:
@@ -134,15 +143,6 @@ An AI-powered travel companion mobile app built at UniHack 2025:
 
 ---
 
-### 🎨 CultureDrop — Hackathon Project
-> **TypeScript · React · Vite · Node.js** · [View repo](https://github.com/Oprea-Sava-Cosmin/CultureDrop)
-
-A full-stack web platform for cultural content discovery and sharing:
-- React + Vite frontend with TanStack Router
-- Node.js backend with REST API
-
----
-
 ### 🗂️ OpenArchive — HackTM 2025
 > **TypeScript · React · Node.js · Express · Python · FastAPI · PostgreSQL · Supabase** · [View repo](https://github.com/DrPepper05/HackTM2025)
 
@@ -150,7 +150,6 @@ An open-source, multi-tenant document archiving system for Romanian public insti
 - Role-based access (admin, archivist, reviewer, citizen) with Supabase Auth + RLS
 - OCR text extraction, full-text search (pg_trgm), and compliance checking (Law 16/1996, GDPR)
 - Semantic Sort API — Python/FastAPI service using `sentence-transformers` for AI-driven document ranking
-- Deployed at [aesthetic-genie-f68d12.netlify.app](https://aesthetic-genie-f68d12.netlify.app)
 
 ---
 
