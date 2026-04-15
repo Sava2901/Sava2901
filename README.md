@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sava Sergiu 👋</h1>
 
 <p align="center">
-  <em>Computer Science student · Chess engine builder · Full-stack developer · Algorithms enthusiast</em>
+  <em>Computer Science student · Chess engine builder · Full-stack developer · Hackathon competitor</em>
 </p>
 
 <p align="center">
@@ -17,11 +17,12 @@
 
 ## 🙋 About Me
 
-I'm a CS student who loves building things from scratch — whether that's a chess engine in C++, a full-stack web platform, or formal-language tools. I enjoy diving deep into algorithms, computer science theory, and creating polished, well-documented software.
+I'm a CS student who loves building things from scratch — whether that's a chess engine in C++, a collaborative coding platform, or an AI-powered chatbot. I enjoy hackathons, shipping real products, and diving deep into algorithms and systems programming.
 
 - 🔭 Currently building **Yoki Chess** — a chess engine + web platform combo
-- 🌱 Interested in algorithms, compilers/formal languages, and systems programming
-- 💬 Ask me about chess engines, SAT solving, formal grammars, or TypeScript/React
+- 🏆 Multiple hackathon participant & winner (ITEC, UniHack, HackTM)
+- �� Interested in algorithms, full-stack dev, AI, and systems programming
+- 💬 Ask me about chess engines, real-time collaboration, or TypeScript/React
 
 ---
 
@@ -38,6 +39,7 @@ I'm a CS student who loves building things from scratch — whether that's a che
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -47,10 +49,12 @@ I'm a CS student who loves building things from scratch — whether that's a che
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Personal Projects
 
 ### ♟️ Yoki Chess Engine
 > **C++** · [View repo](https://github.com/Sava2901/Yoki-Chess-Engine)
@@ -73,42 +77,70 @@ A full-stack chess web application powered by the Yoki engine:
 
 ---
 
-### 🧮 FLAT-Tool
-> **Python** · [View repo](https://github.com/Sava2901/flat-tool)
+## 🏆 Hackathon Contributions
 
-A Python toolkit for Formal Languages and Automata Theory:
-- Grammar classification and simplification (CNF / GNF conversions)
-- CYK parsing algorithm with table visualisation
-- Automata conversions and regular expression parsing
-- Modular CLI and I/O support
+### 🥇 Seally — ITEC Hackathon Winner (Mobile)
+> **Kotlin · Python · TypeScript · LiveKit · Perplexity Sonar** · [View repo](https://github.com/Tudor230/Seally)
 
----
-
-### 🔍 SAT Benchmark
-> **Python** · [View repo](https://github.com/Sava2901/SAT-benchmark)
-
-Benchmarking SAT solvers implementing:
-- **DP** (Davis–Putnam) algorithm
-- **CDCL** (Conflict-Driven Clause Learning) algorithm
-- Performance comparison across problem instances
+A fitness & posture tracking platform built across three components:
+- **Android app** — real-time body pose estimation streamed via LiveKit
+- **TV web receiver** — renders a live skeleton overlay on canvas from binary landmark packets
+- **Nutrition API** — FastAPI backend powered by Perplexity's Sonar API; returns structured macro data for any food query including restaurant menu items
 
 ---
 
-### 🏫 CampusConnect
-> **Java** · [View repo](https://github.com/Sava2901/p3-CampusConnect)
+### 🥇 iTEC 2026 — ITEC Hackathon Winner (Web Dev)
+> **TypeScript · React · Vite · Monaco · Yjs · Socket.IO · Prisma · PostgreSQL · Docker** · [View repo](https://github.com/Tudor230/itec2026)
 
-A campus Q&A platform (console-based) featuring:
-- Full service layer: authentication, courses, Q&A, voting, notifications, audit logging
-- JSON-based persistence with a clean repository pattern
+A full-stack real-time collaborative coding platform:
+- Multi-user code editing in Monaco Editor synchronised via Yjs
+- Role-aware project & file management with invite-based sharing
+- Dockerized sandboxed terminal sessions with shared ownership/access controls
+- AI-assisted file editing powered by DeepSeek
+- Auth0 authentication, Prisma + PostgreSQL persistence, Nginx-proxied Docker Compose deployment
 
 ---
 
-### 🗂️ Hash Tables from Scratch
-> **C** · [View repo](https://github.com/Sava2901/Hash-Table-From-Scratch-C) &nbsp;|&nbsp; **C++** · [View repo](https://github.com/Sava2901/Hash-Table-From-Scratch-Cpp)
+### 🗺️ Wayfarer — UniHack 2025
+> **TypeScript · React Native · Expo** · [View repo](https://github.com/Tudor230/UniHack-2025)
 
-Low-level hash table implementations:
-- Generic keys and values of any type (C version)
-- Dynamic hash table with operator overloading (C++ version)
+An AI-powered travel companion mobile app built at UniHack 2025:
+- Location-aware AI chat that enriches responses with live GPS coordinates
+- Built with Expo and React Native for cross-platform mobile support
+
+---
+
+### 🎨 CultureDrop — Hackathon Project
+> **TypeScript · React · Vite · Node.js** · [View repo](https://github.com/Oprea-Sava-Cosmin/CultureDrop)
+
+A full-stack web platform for cultural content discovery and sharing:
+- React + Vite frontend with TanStack Router
+- Node.js backend with REST API
+
+---
+
+### 🗂️ OpenArchive — HackTM 2025
+> **TypeScript · React · Node.js · Express · Python · FastAPI · PostgreSQL · Supabase** · [View repo](https://github.com/DrPepper05/HackTM2025)
+
+An open-source, multi-tenant document archiving system for Romanian public institutions:
+- Role-based access (admin, archivist, reviewer, citizen) with Supabase Auth + RLS
+- OCR text extraction, full-text search (pg_trgm), and compliance checking (Law 16/1996, GDPR)
+- Semantic Sort API — Python/FastAPI service using `sentence-transformers` for AI-driven document ranking
+- Deployed at [aesthetic-genie-f68d12.netlify.app](https://aesthetic-genie-f68d12.netlify.app)
+
+---
+
+## 🤖 Collaborative Projects
+
+### 💬 Soleia — AI-Enhanced Prompt Communication Platform
+> **TypeScript · Next.js 14 · TailwindCSS · Framer Motion · Supabase** · [View repo](https://github.com/DrPepper05/Soleia_Chat) · [soleia-chat.vercel.app](https://soleia-chat.vercel.app)
+
+An ongoing collaborative product building an AI-first communication experience:
+- Immersive glassmorphism landing page with word-by-word animated text reveals and glow effects
+- Supabase PostgreSQL waitlist backend with Row Level Security
+- Mobile-first design with context-sensitive floating CTA and bottom-sheet waitlist form
+- Deployed on Vercel with Next.js App Router; main product in active private development
+- Framer Motion micro-interactions, Zod schema validation, React Hook Form
 
 ---
 
