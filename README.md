@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sava Sergiu 👋</h1>
 
 <p align="center">
-  <em>Computer Science student · Chess engine builder · Full-stack developer · Hackathon competitor</em>
+  <em>Computer Science student · Co-founder @ Soleia · Full-stack developer · Hackathon competitor</em>
 </p>
 
 <p align="center">
@@ -17,11 +17,12 @@
 
 ## 🙋 About Me
 
-I'm a CS student who loves building things from scratch — whether that's a chess engine in C++, a collaborative coding platform, or an AI-powered chatbot. I enjoy hackathons, shipping real products, and diving deep into algorithms and systems programming.
+I'm a CS student and the Co-founder of Soleia, who loves building things from scratch — whether that's an AI-powered startup, a chess engine in C++, or a collaborative coding platform. I enjoy hackathons, shipping real products, and diving deep into algorithms and systems programming.
 
-- 🔭 Currently building **Yoki Chess** — a chess engine + web platform combo
+- 🔭 Currently building **StratTrack** (Counter-Strike community hub) and **Yoki Chess**
+- 💼 Co-founder at **Soleia** — an AI-first communication experience
 - 🏆 Multiple hackathon participant & winner (ITEC, UniHack, HackTM)
-- �� Interested in algorithms, full-stack dev, AI, and systems programming
+- 💡 Interested in full-stack dev, AI, and systems programming
 - 💬 Ask me about chess engines, real-time collaboration, or TypeScript/React
 
 ---
@@ -39,6 +40,7 @@ I'm a CS student who loves building things from scratch — whether that's a che
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -47,6 +49,7 @@ I'm a CS student who loves building things from scratch — whether that's a che
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -54,7 +57,17 @@ I'm a CS student who loves building things from scratch — whether that's a che
 
 ---
 
-## 🚀 Personal Projects
+## 🚀 Personal & Ongoing Projects
+
+### 🎯 StratTrack
+> **Currently in Development** · 🔒 *Private Repository*
+
+An all-in-one hub providing advanced tools for the Counter-Strike community:
+- **Demo Reviewer:** In-depth match analysis and visualization 
+- **VRS Predictor:** Track and forecast ESports teams' ratings
+- **Lineup Vault:** A dedicated app to save, categorize, and share utility lineups
+
+---
 
 ### ♟️ Yoki Chess Engine
 > **C++** · [View repo](https://github.com/Sava2901/Yoki-Chess-Engine)
@@ -77,6 +90,18 @@ A full-stack chess web application powered by the Yoki engine:
 
 ---
 
+### 💬 Soleia — Co-Founder
+> **TypeScript · Next.js 14 · TailwindCSS · Framer Motion · Supabase** · [soleia-chat.vercel.app](https://soleia-chat.vercel.app)
+
+Co-founded and currently building an AI-first communication experience:
+- Immersive glassmorphism landing page with word-by-word animated text reveals and glow effects
+- Supabase PostgreSQL waitlist backend with Row Level Security
+- Mobile-first design with context-sensitive floating CTA and bottom-sheet waitlist form
+- Deployed on Vercel with Next.js App Router; main product in active private development
+- Framer Motion micro-interactions, Zod schema validation, React Hook Form
+
+---
+
 ## 🏆 Hackathon Contributions
 
 ### 🥇 Seally — ITEC Hackathon Winner (Mobile)
@@ -85,7 +110,7 @@ A full-stack chess web application powered by the Yoki engine:
 A fitness & posture tracking platform built across three components:
 - **Android app** — real-time body pose estimation streamed via LiveKit
 - **TV web receiver** — renders a live skeleton overlay on canvas from binary landmark packets
-- **Nutrition API** — FastAPI backend powered by Perplexity's Sonar API; returns structured macro data for any food query including restaurant menu items
+- **Nutrition API** — FastAPI backend powered by Perplexity's Sonar API; returns structured macro data for any food query
 
 ---
 
@@ -97,7 +122,6 @@ A full-stack real-time collaborative coding platform:
 - Role-aware project & file management with invite-based sharing
 - Dockerized sandboxed terminal sessions with shared ownership/access controls
 - AI-assisted file editing powered by DeepSeek
-- Auth0 authentication, Prisma + PostgreSQL persistence, Nginx-proxied Docker Compose deployment
 
 ---
 
@@ -127,20 +151,6 @@ An open-source, multi-tenant document archiving system for Romanian public insti
 - OCR text extraction, full-text search (pg_trgm), and compliance checking (Law 16/1996, GDPR)
 - Semantic Sort API — Python/FastAPI service using `sentence-transformers` for AI-driven document ranking
 - Deployed at [aesthetic-genie-f68d12.netlify.app](https://aesthetic-genie-f68d12.netlify.app)
-
----
-
-## 🤖 Collaborative Projects
-
-### 💬 Soleia — AI-Enhanced Prompt Communication Platform
-> **TypeScript · Next.js 14 · TailwindCSS · Framer Motion · Supabase** · [View repo](https://github.com/DrPepper05/Soleia_Chat) · [soleia-chat.vercel.app](https://soleia-chat.vercel.app)
-
-An ongoing collaborative product building an AI-first communication experience:
-- Immersive glassmorphism landing page with word-by-word animated text reveals and glow effects
-- Supabase PostgreSQL waitlist backend with Row Level Security
-- Mobile-first design with context-sensitive floating CTA and bottom-sheet waitlist form
-- Deployed on Vercel with Next.js App Router; main product in active private development
-- Framer Motion micro-interactions, Zod schema validation, React Hook Form
 
 ---
 
